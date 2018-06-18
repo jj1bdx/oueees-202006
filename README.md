@@ -1,8 +1,8 @@
-# README for the lecture/talk series at Osaka University, June 2018
+# README for the lecture/talk series at Osaka University, June 2019
 
-* 大阪大学 基礎工学部 電気工学特別講義 2018年度
+* 大阪大学 基礎工学部 電気工学特別講義 2019年度
 * Kenji Rikitake / 力武 健次
-* Latest revision: 25-MAR-2018
+* Latest revision: 6-JUN-2019
 
 ## Talk style
 
@@ -15,19 +15,19 @@
 
 ## Main theme: Information Delivery on Internet / インターネットの情報伝送
 
-## 19-JUN-2018: Packet switching / パケット交換
+## 11-JUN-2019: Packet switching / パケット交換
 
 * Encapsulation, serialization, and marshalling
 * Multiplexing and aggregation
 * Synchronization in the asynchronous world
 
-## 26-JUN-2018: Routing and connection / ルーティングとコネクション
+## 18-JUN-2019: Routing and transport protocol / ルーティングとトランスポートプロトコル
 
 * IP address and the hierarchical routing
 * Routing information dissemination protocols (RIP, OSPF, BGP)
 * Connection-oriented .vs. connection-less protocols (TCP, UDP, HTTP/2 .vs. QUIC)
 
-## 3-JUL-2018: Centralized and distributed systems / 集中型と分散型システム
+## 25-JUN-2019: Centralized and distributed systems / 集中型と分散型システム
 
 * Cloud computing .vs. endpoint computing
 * Sharing .vs. message passing
@@ -35,5 +35,5 @@
 
 ## License
 
-Copyright ©2018 Kenji Rikitake.
+Copyright ©2019 Kenji Rikitake.
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
