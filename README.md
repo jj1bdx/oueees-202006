@@ -23,6 +23,21 @@ I deliver the lecture in asynchronous format as a series of short videos this ye
 
 Talk topics included but not limited to:
 
+* Centralized communication
+* Multiplexing
+* Packet switching
+* Routing basics
+* IP addresses
+* Routing in details
+* Network transports
+* Cloud computing basics
+* Social implication of cloud computing
+* Network fault-tolerance
+* Reference books
+* Career choice
+
+Original keywords:
+
 * Encapsulation, serialization, and marshalling
 * Multiplexing and aggregation
 * Synchronization in the asynchronous world
@@ -35,5 +50,5 @@ Talk topics included but not limited to:
 
 ## License
 
-Copyright ©2020 Kenji Rikitake.
+Copyright ©2018-2020 Kenji Rikitake.
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
