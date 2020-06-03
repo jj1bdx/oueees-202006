@@ -1,17 +1,17 @@
 theme: Plain Jane, 2
-footer: Kenji Rikitake / oueees 201906 intro
+footer: Kenji Rikitake / oueees 202006 intro
 slidenumbers: true
 
-# [fit] 電気工学特別講義 2019年
-# [fit] 6月11/18/25日
+# [fit] 電気工学特別講義
+# [fit] 2020年6月10日分
 # [fit] イントロダクション
 
-<!-- Use Deckset 2.0, Next theme, 4:3 aspect ratio -->
+<!-- Use Deckset 2, Next theme, 16:9 aspect ratio -->
 
 ---
 
-# [fit] OU EE ES Lecture Series 2018
-# [fit] June 11/18/25
+# [fit] OU EE ES Lecture Series
+# [fit] June 10, 2020
 # [fit] Lecture introduction
 
 ---
@@ -22,7 +22,7 @@ slidenumbers: true
 
 ## 力武 健次
 
-11-JUN-2018
+10-JUN-2020
 School of Engineering Science
 Osaka University
 Toyonaka, Osaka, Japan
@@ -32,9 +32,50 @@ Toyonaka, Osaka, Japan
 
 ---
 
-# [fit] Do you remember the quake?
-# [fit] 18-JUN-2018 0758JST
-# [fit] ... and many other quakes?
+# CAUTION
+
+Osaka University School of Engineering Science prohibits copying/redistribution of the lecture series video/audio files used in this lecture series.
+
+大阪大学基礎工学部からの要請により、本講義で使用するビデオ/音声ファイルの複製や再配布は禁止されています。
+
+---
+
+# [fit] COVID-19
+# [fit] has changed
+# [fit] everything
+
+---
+
+# [Fit] The Digital Divide has become irrelevant
+# [fit] The Physical Divide
+
+---
+
+# The Physical Divide [^1]
+
+>Digital is now cheap, it's physical that is expensive.
+70 years ago the cost of putting a bunch of transistors on a chip was astronomical. Now that’s cheap. What’s expensive is putting a bunch of people in a room.
+-- Balaji S. Srinivasan
+
+
+[^1]: <https://twitter.com/balajis/status/1247518697385684992?lang=en>
+
+---
+
+# [fit] Digital-first society has come
+# [fit] Internet is infrastructure
+# [fit] Software builds the world
+
+---
+
+# [fit] In the meanwhile:
+# [fit] Oppressions everywhere
+# [fit] by people with power
+# [fit] to enslave oppressed people
+
+---
+
+![original,fit](nicole-baster-6_y5Sww0-h4-unsplash.jpg)
 
 ---
 
@@ -73,13 +114,14 @@ Toyonaka, Osaka, Japan
 
 # My career
 
-Erlang, Elixir, C, FreeBSD, Linux, TCP/IP, PHP, mruby, Lua, C++, C#, Visual Studio, Moodle, macOS, Windows, Vim, Emacs, Arduino, AVR, radio, music, distributed systems, fault tolerance, whatever.
+Erlang, Elixir, C, FreeBSD, Linux, TCP/IP, PHP, mruby, Lua, C++, C#, Visual Studio, Moodle, macOS, Windows, Vim, Emacs, Arduino, AVR, radio, music, distributed systems, fault tolerance, software defined radio, whatever.
 
-29 years in Computer Science, 14 years since PhD, 43 years of ham radio op as @jj1bdx, 2010-2012: Professor, ACCMS/IIMC, Kyoto University, whatever.
+30 years in Computer Science, 15 years since PhD, 44 years of ham radio op as @jj1bdx, 2010-2012: Professor, ACCMS/IIMC, Kyoto University, whatever.
 
 ---
 
-## Past records are meaningless unless *you work on what you really want to do now*.
+# [fit] Past records are meaningless, unless:
+# [fit] *you work on what you really want to do now*
 
 ---
 
@@ -143,6 +185,12 @@ Erlang, Elixir, C, FreeBSD, Linux, TCP/IP, PHP, mruby, Lua, C++, C#, Visual Stud
 ---
 
 # OK let's get down to business!
+
+---
+
+# Picture credits:
+
+* Black Lives Matter: Nicole Baster, from Unsplash, <https://unsplash.com/photos/6_y5Sww0-h4>
 
 <!--
 Local Variables:
