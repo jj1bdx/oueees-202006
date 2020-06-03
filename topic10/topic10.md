@@ -154,6 +154,10 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 <!-- Photo and image credits here -->
 
+* Networks: Irina Blok
+* Networks Split: Pietro De Grandi
+* Netsplit: <https://commons.wikimedia.org/wiki/File:Netsplit_split.svg>, in public domain
+
 <!--
 Local Variables:
 mode: markdown
