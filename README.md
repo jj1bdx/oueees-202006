@@ -17,7 +17,7 @@ I deliver the lecture in asynchronous format as a series of short videos this ye
 
 *Caution: Osaka University School of Engineering Science prohibits copying/redistribution of the lecture series video/audio files used in this lecture series.* The license of this repository is *not applicable* to the lecture video/audio files.
 
-大阪大学基礎工学部からの要請により、本講義で使用するビデオ/音声ファイルのの複製や再配布は禁止されています。本レポジトリのライセンスは講義のビデオ/音声ファイルには適用されません。
+大阪大学基礎工学部からの要請により、本講義で使用するビデオ/音声ファイルの複製や再配布は禁止されています。本レポジトリのライセンスは講義のビデオ/音声ファイルには適用されません。
 
 ## Main theme: Information Delivery on Internet / インターネットの情報伝送
 
