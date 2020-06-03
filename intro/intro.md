@@ -1,5 +1,5 @@
 theme: Plain Jane, 2
-footer: Kenji Rikitake / oueees 202006 intro
+footer: Kenji Rikitake / oueees 20200610 intro
 slidenumbers: true
 
 # [fit] 電気工学特別講義
@@ -25,7 +25,7 @@ slidenumbers: true
 10-JUN-2020
 School of Engineering Science
 Osaka University
-Toyonaka, Osaka, Japan
+On the internet
 @jj1bdx
 
 ![right, fit](kenji-20180530-stockholm.jpg)
@@ -130,16 +130,9 @@ Erlang, Elixir, C, FreeBSD, Linux, TCP/IP, PHP, mruby, Lua, C++, C#, Visual Stud
 
 ---
 
-# [fit] Lecture theme
-
----
-
-# Information delivery on internet
-
----
-
-# In other words:
-# How internet works
+# Lecture theme:
+# [fit] Information delivery on internet
+# In other words: how internet works
 
 ---
 
@@ -148,31 +141,46 @@ Erlang, Elixir, C, FreeBSD, Linux, TCP/IP, PHP, mruby, Lua, C++, C#, Visual Stud
 
 ---
 
-# Modern life is full of failures
-
----
-
-# How internet works under failures?
+# [fit] Modern life is full of failures
+# [fit] How internet works under failures?
 
 ---
 
 # Technology 1:
-
-# Packet switching
+# [fit] Packet switching
 
 ---
 
 # Technology 2:
-
-# Flexible packet routing
+# [fit] Flexible packet routing
 
 ---
 
 # Technology 3:
+# [fit] Centralization, and:
+# [fit] decentralization
 
-# Centralization
-# and
-# decentralization
+---
+
+# Topic sections (1/2)
+
+* Centralized communication
+* Multiplexing
+* Packet switching
+* Routing basics
+* IP addresses
+* Routing in details
+
+---
+
+# Topic sections (2/2)
+
+* Network transports
+* Cloud computing basics
+* Social implication of cloud computing
+* Network fault-tolerance
+* Reference books
+* Career choice
 
 ---
 
@@ -184,7 +192,7 @@ Erlang, Elixir, C, FreeBSD, Linux, TCP/IP, PHP, mruby, Lua, C++, C#, Visual Stud
 
 ---
 
-# OK let's get down to business!
+# [fit] OK let's get down to business!
 
 ---
 
