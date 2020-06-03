@@ -105,7 +105,10 @@ A physical server is separated into multiple virtual machines
 * All photos and images are modified and edited by Kenji Rikitake
 * Photos are from Unsplash.com unless otherwise noted
 
-<!-- Photo and image credits here -->
+* Modern Computing is Cloud Computing: Rayi Christian Wicaksono
+* Cloud Computing: <https://commons.wikimedia.org/wiki/File:Cloud_applications_SVG.svg>, licensed under [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+* Intertwined network of computers: <https://en.wikipedia.org/wiki/File:Cloud_Computing.jpg>, licensed under [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+* Web services are clusters of computers: Kenji Rikitake, at Kyoto University ACCMS, April 2017
 
 <!--
 Local Variables:
