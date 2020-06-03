@@ -1,9 +1,9 @@
 theme: Plain Jane, 2
-footer: Kenji Rikitake / oueees 20200610 topic00
+footer: Kenji Rikitake / oueees 20200610 topic10
 slidenumbers: true
 autoscale: true
 
-# oueees-202006 topic 00:
+# oueees-202006 topic 10:
 # [fit] Network fault-tolerance
 
 <!-- Use Deckset 2.0, 16:9 aspect ratio -->
