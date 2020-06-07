@@ -78,6 +78,10 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 ---
 
+![fit](1280px-UDP_encapsulation.svg.jpg)
+
+---
+
 # UDP's pros and cons
 
 * UDP datagrams are still not always delivered and may get lost
@@ -96,6 +100,10 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 * Put sequence numbers to the segments
 * Reassemble segments to the stream
 * Perform congestion control
+
+---
+
+![fit](Tcp_transport_example.gif)
 
 ---
 
@@ -124,6 +132,8 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 * All photos and images are modified and edited by Kenji Rikitake
 * Photos are from Unsplash.com unless otherwise noted
+* UDP Encapsulation: [en:User:Cburnett original work, colorization by en:User:Kbrose, from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:UDP_encapsulation.svg), CC BY-SA 3.0
+* TCP Transport: [By Huage.chen from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tcp_transport_example.gif), CC BY-SA 3.0
 
 <!-- Photo and image credits here -->
 
