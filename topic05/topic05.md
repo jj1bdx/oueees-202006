@@ -77,7 +77,7 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 # [fit] 192.168.100.20/28
 
 - Network: 192.168.100.16/28
-- Host: number 4 (0~15) (32-24=4)
+- Host: number 4 (0~15) (32-28=4)
 - Host 0 = network itself
 - Host 15 = broadcast
 - Different netmask = different address interpretation
